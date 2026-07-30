@@ -10,7 +10,7 @@
 
 ## Purpose
 
-> _Pending_
+Our purpose is to empower NYWCC members by providing a personalized digital platform that helps entrepreneurs make better business decisions, access the right resources at the right time, and confidently grow their businesses through every stage of their journey.
 
 ## Vision Statement
 
