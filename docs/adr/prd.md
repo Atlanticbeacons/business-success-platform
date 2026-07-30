@@ -8,7 +8,11 @@
 
 ## 1. Product Overview
 
-> _Pending_
+The Business Success Platform is a secure member portal designed for the New York Women's Chamber of Commerce (NYWCC).
+
+The platform provides members with personalized access to business resources, expert guidance, funding opportunities, educational content, events, and business growth services.
+
+Its primary goal is to help entrepreneurs identify and take the next best action to grow their business through a personalized and guided experience.
 
 ## 2. Target Users
 
