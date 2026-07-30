@@ -27,9 +27,17 @@ Business advisors, consultants, and mentors who provide guidance and support to 
 ### 3. Staff
 NYWCC staff members responsible for managing members, programs, events, resources, and platform content.
 
-## 3. Core Features
+## 3. Member Needs
 
-> _Pending_
+Members visit the platform to:
+
+- Understand the next best steps to grow their business.
+- Discover funding opportunities.
+- Access membership benefits.
+- Book consultations.
+- Register for events.
+- Hire trusted business services.
+- Track their business journey.
 
 ## 4. Functional Requirements
 
