@@ -25,7 +25,11 @@ This fragmented experience makes it difficult to know what to do next, causing l
 
 ## Solution
 
-> _Pending_
+## Solution
+
+The Business Success Platform is a personalized member portal that connects NYWCC members with the right resources, services, experts, and opportunities based on where they are in their business journey.
+
+Rather than simply providing access to information, the platform actively guides entrepreneurs by recommending the next best actions to help them grow their businesses.
 
 ## Success Metrics
 
