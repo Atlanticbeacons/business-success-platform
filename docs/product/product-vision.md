@@ -23,7 +23,6 @@ Women entrepreneurs often need to navigate multiple disconnected resources to gr
 
 This fragmented experience makes it difficult to know what to do next, causing lost opportunities, wasted time, and slower business growth.
 
-## Solution
 
 ## Solution
 
