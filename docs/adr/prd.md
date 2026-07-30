@@ -16,7 +16,16 @@ Its primary goal is to help entrepreneurs identify and take the next best action
 
 ## 2. Target Users
 
-> _Pending_
+The Business Success Platform is designed for three primary user groups:
+
+### 1. Member
+Women entrepreneurs who are members of the NYWCC. They use the platform to access personalized business resources, book consultations, discover funding opportunities, participate in events, and track their business growth.
+
+### 2. Advisor
+Business advisors, consultants, and mentors who provide guidance and support to members through consultations and specialized programs.
+
+### 3. Staff
+NYWCC staff members responsible for managing members, programs, events, resources, and platform content.
 
 ## 3. Core Features
 
