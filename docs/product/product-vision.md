@@ -32,4 +32,18 @@ Rather than simply providing access to information, the platform actively guides
 
 ## Success Metrics
 
-> _Pending_
+The success of the Business Success Platform will be measured in two dimensions:
+
+### Product Success
+- Member profile completion
+- Active platform usage
+- Consultation bookings
+- Event participation
+- Resource engagement
+
+### Business Impact
+- Businesses accessing funding opportunities
+- Businesses obtaining certifications
+- Businesses growing through NYWCC programs
+- Progress across the Business Journey
+- Member satisfaction
