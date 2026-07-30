@@ -18,7 +18,6 @@ To become the most trusted digital business companion for women entrepreneurs, g
 
 ## Problem
 
-## Problem
 
 Women entrepreneurs often need to navigate multiple disconnected resources to grow their businesses, including funding programs, business advisors, educational content, networking events, legal guidance, and government services.
 
