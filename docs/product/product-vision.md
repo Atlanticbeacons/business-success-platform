@@ -14,7 +14,7 @@ Our purpose is to empower NYWCC members by providing a personalized digital plat
 
 ## Vision Statement
 
-> _Pending_
+To become the most trusted digital business companion for women entrepreneurs, guiding them through every stage of their business journey with personalized recommendations, expert support, and growth opportunities.
 
 ## Problem
 
