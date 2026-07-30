@@ -18,7 +18,11 @@ To become the most trusted digital business companion for women entrepreneurs, g
 
 ## Problem
 
-> _Pending_
+## Problem
+
+Women entrepreneurs often need to navigate multiple disconnected resources to grow their businesses, including funding programs, business advisors, educational content, networking events, legal guidance, and government services.
+
+This fragmented experience makes it difficult to know what to do next, causing lost opportunities, wasted time, and slower business growth.
 
 ## Solution
 
